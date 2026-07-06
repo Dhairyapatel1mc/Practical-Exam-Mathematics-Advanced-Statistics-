@@ -1,50 +1,40 @@
 # 📊 Loan Default Risk Analysis
 
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Loan%20Default%20Risk%20Analysis&fontSize=42&fontAlignY=38&desc=Statistics%2C%20Probability%20%26%20Linear%20Algebra&descAlignY=58&descSize=20&animation=fadeIn"
-    alt="Loan Default Risk Analysis Banner"
-    width="100%"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=250&section=header&text=Loan%20Default%20Risk%20Analysis&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Statistics%20|%20Probability%20|%20Linear%20Algebra&descAlignY=60&descSize=18" width="100%"/>
 </p>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-<img src="https://img.shields.io/badge/NumPy-4DABCF?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Status-Completed-2D7D7D?style=flat-square" alt="Status"/>
-<img src="https://img.shields.io/badge/Exam-Practical%20Set%20C-C9A84C?style=flat-square" alt="Exam"/>
-<img src="https://img.shields.io/badge/Institute-Red%20%26%20White%20Skill%20Education-A0394A?style=flat-square" alt="Institute"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
 
 </p>
 
 <p align="center">
 
-<a href="https://github.com/Dhairyapatel1mc" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square"/>
+<img src="https://img.shields.io/badge/Exam-Practical%20Set%20C-yellow?style=flat-square"/>
+<img src="https://img.shields.io/badge/Institute-Red%20%26%20White%20Skill%20Education-red?style=flat-square"/>
+
+</p>
+
+<p align="center">
+<a href="https://github.com/Dhairyapatel1mc">
+<img src="https://skillicons.dev/icons?i=github" width="50"/>
 </a>
-
 &nbsp;&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/ghost-patel-0267663b7/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/ghost-patel-0267663b7/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 </a>
-
 &nbsp;&nbsp;&nbsp;
-
-<a href="https://www.instagram.com/ghost_6927/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" height="45" alt="Instagram"/>
+<a href="https://www.instagram.com/ghost_6927/">
+<img src="https://skillicons.dev/icons?i=instagram" width="50"/>
 </a>
-
 </p>
 
 ---

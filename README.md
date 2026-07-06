@@ -217,20 +217,20 @@ pip install numpy pandas matplotlib seaborn scipy jupyter
 ## 📊 Visualizations
 
 | Loan Amount Distribution | Q-Q Plot |
-|---|---|
-| <img src="charts/Loan Amount Distribution.png" width="450"/> | <img src="charts/Income vs Normal Distribution.png" width="450"/> |
+|:---:|:---:|
+| <img src="charts/Loan%20Amount%20Distribution.png" width="450"> | <img src="charts/Income%20vs%20Normal%20Distribution.png" width="450"> |
 
 | Income Distribution | Customer Vectors |
-|---|---|
-| <img src="charts/Income Distribution with Mean & Median.png" width="450"/> | <img src="charts/First 5 Customers as [Income, Loan_Amount] Vectors.png" width="450"/> |
+|:---:|:---:|
+| <img src="charts/Income%20Distribution%20with%20Mean%20%26%20Median.png" width="450"> | <img src="charts/First%205%20Customers%20as%20%5BIncome%2C%20Loan_Amount%5D%20Vectors.png" width="450"> |
 
 | Credit Score Gaussian Fit | Contingency Table |
-|---|---|
-| <img src="charts/Credit Score Distribution with Gaussian Curve.png" width="450"/> | <img src="charts/Credit Score Band vs Default Status.png" width="450"/> |
+|:---:|:---:|
+| <img src="charts/Credit%20Score%20Distribution%20with%20Gaussian%20Curve.png" width="450"> | <img src="charts/Credit%20Score%20Band%20vs%20Default%20Status.png" width="450"> |
 
 | Correlation Matrix |
-|---|
-| <img src="charts/Correlation Matrix Numeric Features.png" width="600"/> |
+|:---:|
+| <img src="charts/Correlation%20Matrix%20Numeric%20Features.png" width="600"> |
 **[⬆ Back to top](#toc)**
 
 ---

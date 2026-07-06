@@ -1,7 +1,6 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Spread%20Locator&fontSize=52&fontAlignY=38&desc=A%20Statistical%20Distribution%20Analysis%20Model&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+Readme · MD<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Loan%20Default%20Risk%20Analysis&fontSize=42&fontAlignY=38&desc=Statistics%2C%20Probability%20%26%20Linear%20Algebra&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 </p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
@@ -10,13 +9,11 @@
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
 </p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Completed-2D7D7D?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Course-Mathematics%20%26%20Advanced%20Statistics-C9A84C?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Exam-Practical%20Set%20C-C9A84C?style=flat-square"/>
   <img src="https://img.shields.io/badge/Institute-Red%20%26%20White%20Skill%20Education-A0394A?style=flat-square"/>
 </p>
-
 <p align="center">
   <a href="https://github.com/Dhairyapatel1mc"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
   &nbsp;
@@ -24,10 +21,6 @@
   &nbsp;
   <a href="https://www.instagram.com/ghost_6927/?hl=en"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
 </p>
-
----
-
----
 
 <a name="toc"></a>
 ## 📌 Table of Contents

@@ -220,7 +220,27 @@ pip install numpy pandas matplotlib seaborn scipy jupyter
 
 ---
 
+# 📊 Visualizations
 
+| Loan Amount Distribution | Income Q-Q Plot |
+|---|---|
+| <img src="images/loan_amount_distribution.png" width="500"> | <img src="images/qq_plot_income.png" width="500"> |
+| **Shows the distribution of loan amounts. The histogram highlights a strong right-skew with high skewness and kurtosis, indicating the presence of large loan outliers.** | **Compares the income distribution against a normal distribution. Deviations from the reference line indicate that income is not normally distributed and is positively skewed.** |
+
+| Income Distribution | Customer Income–Loan Vectors |
+|---|---|
+| <img src="images/income_distribution.png" width="500"> | <img src="images/customer_vectors.png" width="500"> |
+| **Displays the income distribution with mean and median. Since the mean is greater than the median, the distribution is positively skewed.** | **Represents the first five customers as vectors in the Income–Loan Amount space, illustrating vector magnitude and direction.** |
+
+| Credit Score Distribution | Credit Score Band vs Default Status |
+|---|---|
+| <img src="images/credit_score_gaussian.png" width="500"> | <img src="images/contingency_table.png" width="500"> |
+| **Histogram of credit scores with an overlaid Gaussian curve to evaluate how closely the observed data follows a normal distribution.** | **Heatmap showing the relationship between credit score bands and loan default status using a contingency table.** |
+
+| Correlation Matrix | |
+|---|---|
+| <img src="images/correlation_matrix.png" width="500"> | |
+| **Correlation heatmap of numerical features, highlighting the strength and direction of relationships between variables such as Income, Loan Amount, Credit Score, Age, and Loan Term.** | |
 
 ## <a id="-sample-results"></a>📄 Sample Results
 

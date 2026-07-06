@@ -222,40 +222,21 @@ pip install numpy pandas matplotlib seaborn scipy jupyter
 
 # 📊 Visualizations
 
-| Loan Amount Distribution | Income Q-Q Plot |
+| Loan Amount Distribution | Q-Q Plot |
 |---|---|
 | <img src="images/loan_amount_distribution.png" width="500"> | <img src="images/qq_plot_income.png" width="500"> |
-| **Shows the distribution of loan amounts. The histogram highlights a strong right-skew with high skewness and kurtosis, indicating the presence of large loan outliers.** | **Compares the income distribution against a normal distribution. Deviations from the reference line indicate that income is not normally distributed and is positively skewed.** |
 
-| Income Distribution | Customer Income–Loan Vectors |
+| Income Distribution | Customer Vectors |
 |---|---|
 | <img src="images/income_distribution.png" width="500"> | <img src="images/customer_vectors.png" width="500"> |
-| **Displays the income distribution with mean and median. Since the mean is greater than the median, the distribution is positively skewed.** | **Represents the first five customers as vectors in the Income–Loan Amount space, illustrating vector magnitude and direction.** |
 
-| Credit Score Distribution | Credit Score Band vs Default Status |
+| Credit Score Gaussian Fit | Contingency Table |
 |---|---|
 | <img src="images/credit_score_gaussian.png" width="500"> | <img src="images/contingency_table.png" width="500"> |
-| **Histogram of credit scores with an overlaid Gaussian curve to evaluate how closely the observed data follows a normal distribution.** | **Heatmap showing the relationship between credit score bands and loan default status using a contingency table.** |
 
 | Correlation Matrix | |
 |---|---|
 | <img src="images/correlation_matrix.png" width="500"> | |
-| **Correlation heatmap of numerical features, highlighting the strength and direction of relationships between variables such as Income, Loan Amount, Credit Score, Age, and Loan Term.** | |
-
-## <a id="-sample-results"></a>📄 Sample Results
-
-| Task | Metric | Result | Insight |
-|---|---|---|---|
-| Central Tendency | Income Mean vs Median | Mean > Median | Confirms right-skewed income |
-| Dispersion | Loan_Amount Std Dev | High relative to mean | Wide spread in loan sizes across customers |
-| Probability | P(Default) | ~17% | Baseline default rate across all customers |
-| Conditional Probability | P(Default \| Credit_Score < 600) | ~34% | Low credit score customers default far more often |
-| Distribution Fit | Credit_Score vs Normal | Close to Gaussian | Credit scoring is designed to be roughly Normal |
-| Skew/Kurtosis | Loan_Amount | Positive skew | Loan sizes are right-skewed with a long tail |
-| Normality Check | Income Q-Q Plot | Deviates in upper tail | Income is not Normally distributed |
-| Linear Algebra | Customer Vector Angle | Computed per pair | Quantifies similarity of income-to-loan ratio |
-
-*(Exact numeric values are computed live in the notebook and printed under each task.)*
 
 **[⬆ Back to top](#toc)**
 

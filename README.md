@@ -124,25 +124,19 @@ The project is split into two parts, matching the original exam structure:
 
 ```
 .
-├── README.md                              # You are here
-├── loan_default_risk_analysis.ipynb       # Main analysis notebook (Part A + Part B)
-├── loan_applications.csv                  # Loan applications dataset (~5,000 records)
-└── charts/                                # Exported chart images (PNG)
-    ├── 01_mean_median_mode.png
-    ├── 02_variance_std_dev.png
-    ├── 03_random_variable_dice.png
-    ├── 04_conditional_probability_venn.png
-    ├── 05_bayes_theorem_pipeline.png
-    ├── 06_empirical_vs_theoretical_probability.png
-    ├── 07_poisson_distribution.png
-    ├── 08_eigenvectors_transformation.png
-    ├── 09_income_distribution_mean_median.png
-    ├── 10_creditscore_default_contingency_heatmap.png
-    ├── 11_creditscore_gaussian_fit.png
-    ├── 12_loan_amount_skew_kurtosis.png
-    ├── 13_qq_plot_income.png
-    ├── 14_customer_vectors_income_loanamount.png
-    └── 15_correlation_heatmap.png
+├── README.md                              # Project documentation
+├── Part_A_Theory.pdf                      # Theory report
+├── loan_default_risk_analysis Part B.ipynb # Main analysis notebook
+├── loan_applications.csv                  # Loan applications dataset (~5,000 records)                          
+├── charts/                                # Exported chart images (PNG)
+│   ├── Correlation Matrix Numeric Features.png
+│   ├── Credit Score Band vs Default Status.png
+│   ├── Credit Score Distribution with Gaussian Curve.png
+│   ├── First 5 Customers as [Income, Loan_Amount] Vectors.png
+│   ├── Income Distribution with Mean & Median.png
+│   ├── Income vs Normal Distribution.png
+│   └── Loan Amount Distribution.png
+│
 ```
 
 **[⬆ Back to top](#toc)**

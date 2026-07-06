@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Loan%20Default%20Risk%20Analysis&fontSize=42&fontAlignY=38&desc=Statistics%2C%20Probability%20%26%20Linear%20Algebra&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+ img src="https://capsule-render.vercel.app/apitype=waving&color=timeGradient&height=220&section=header&text=Loan%20Default%20Risk%20Analysis&fontSize=42&fontAlignY=38&desc=Statistics%2C%20Probability%20%26%20Linear%20Algebra&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Completed-2D7D7D?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Exam-Practical%20Set%20C-C9A84C?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Course-Mathematics%20%26%20Advanced%20Statistics-C9A84C?style=flat-square"/>
   <img src="https://img.shields.io/badge/Institute-Red%20%26%20White%20Skill%20Education-A0394A?style=flat-square"/>
 </p>
 
@@ -24,6 +24,8 @@
   &nbsp;
   <a href="https://www.instagram.com/ghost_6927/?hl=en"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
 </p>
+
+---
 
 ---
 

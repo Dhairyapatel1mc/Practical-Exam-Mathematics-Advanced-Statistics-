@@ -1,4 +1,4 @@
-# 📊 Loan Default Risk Analysis
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=250&section=header&text=Loan%20Default%20Risk%20Analysis&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Statistics%20|%20Probability%20|%20Linear%20Algebra&descAlignY=60&descSize=18" width="100%"/>

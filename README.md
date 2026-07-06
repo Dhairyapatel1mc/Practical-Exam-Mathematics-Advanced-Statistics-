@@ -49,6 +49,7 @@
 - [🧰 Technologies Used](#-technologies-used)
 - [⚙️ Installation](#️-installation)
 - [▶️ How to Run](#️-how-to-run)
+- [📈 Visualizations](#-visualizations)
 - [📄 Sample Results](#-sample-results)
 - [🎓 Learning Outcomes](#-learning-outcomes)
 - [💡 Future Improvements](#-future-improvements)

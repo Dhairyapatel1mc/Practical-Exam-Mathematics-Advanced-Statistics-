@@ -224,19 +224,19 @@ pip install numpy pandas matplotlib seaborn scipy jupyter
 
 | Loan Amount Distribution | Q-Q Plot |
 |---|---|
-| <img src="images/loan_amount_distribution.png" width="500"> | <img src="images/qq_plot_income.png" width="500"> |
+| <img src="./images/loan_amount_distribution.png" width="500"> | <img src="./images/qq_plot_income.png" width="500"> |
 
 | Income Distribution | Customer Vectors |
 |---|---|
-| <img src="images/income_distribution.png" width="500"> | <img src="images/customer_vectors.png" width="500"> |
+| <img src="./images/income_distribution.png" width="500"> | <img src="./images/customer_vectors.png" width="500"> |
 
 | Credit Score Gaussian Fit | Contingency Table |
 |---|---|
-| <img src="images/credit_score_gaussian.png" width="500"> | <img src="images/contingency_table.png" width="500"> |
+| <img src="./images/credit_score_gaussian.png" width="500"> | <img src="./images/contingency_table.png" width="500"> |
 
 | Correlation Matrix | |
 |---|---|
-| <img src="images/correlation_matrix.png" width="500"> | |
+| <img src="./images/correlation_matrix.png" width="500"> | |
 
 **[⬆ Back to top](#toc)**
 

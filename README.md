@@ -49,7 +49,6 @@
 - [🧰 Technologies Used](#-technologies-used)
 - [⚙️ Installation](#️-installation)
 - [▶️ How to Run](#️-how-to-run)
-- [📈 Visualizations](#-visualizations)
 - [📄 Sample Results](#-sample-results)
 - [🎓 Learning Outcomes](#-learning-outcomes)
 - [💡 Future Improvements](#-future-improvements)
@@ -221,29 +220,7 @@ pip install numpy pandas matplotlib seaborn scipy jupyter
 
 ---
 
-## <a id="-visualizations"></a>📈 Visualizations
 
-**Part A — Theory Illustrations**
-
-| | |
-|---|---|
-| ![Mean Median Mode](charts/01_mean_median_mode.png) | ![Variance vs Std Dev](charts/02_variance_std_dev.png) |
-| ![Random Variable](charts/03_random_variable_dice.png) | ![Conditional Probability](charts/04_conditional_probability_venn.png) |
-| ![Bayes' Theorem](charts/05_bayes_theorem_pipeline.png) | ![Empirical vs Theoretical](charts/06_empirical_vs_theoretical_probability.png) |
-| ![Poisson Distribution](charts/07_poisson_distribution.png) | ![Eigenvectors](charts/08_eigenvectors_transformation.png) |
-
-**Part B — Practical Results**
-
-| | |
-|---|---|
-| ![Income Distribution](charts/09_income_distribution_mean_median.png) | ![Contingency Heatmap](charts/10_creditscore_default_contingency_heatmap.png) |
-| ![Credit Score Gaussian Fit](charts/11_creditscore_gaussian_fit.png) | ![Loan Amount Skew & Kurtosis](charts/12_loan_amount_skew_kurtosis.png) |
-| ![Q-Q Plot Income](charts/13_qq_plot_income.png) | ![Customer Vectors](charts/14_customer_vectors_income_loanamount.png) |
-| ![Correlation Heatmap](charts/15_correlation_heatmap.png) | |
-
-**[⬆ Back to top](#toc)**
-
----
 
 ## <a id="-sample-results"></a>📄 Sample Results
 

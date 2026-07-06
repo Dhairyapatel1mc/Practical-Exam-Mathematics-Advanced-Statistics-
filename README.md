@@ -1,5 +1,5 @@
 <p align="center">
- img src="https://capsule-render.vercel.app/apitype=waving&color=timeGradient&height=220&section=header&text=Loan%20Default%20Risk%20Analysis&fontSize=42&fontAlignY=38&desc=Statistics%2C%20Probability%20%26%20Linear%20Algebra&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Spread%20Locator&fontSize=52&fontAlignY=38&desc=A%20Statistical%20Distribution%20Analysis%20Model&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 </p>
 
 <p align="center">

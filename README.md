@@ -125,11 +125,12 @@ The project is split into two parts, matching the original exam structure:
 
 ```
 .
-├── README.md                              # Project documentation
-├── Part_A_Theory.pdf                      # Theory report
+├── README.md                               # Project documentation
+├── Part_A_Theory.pdf                       # Theory report
 ├── loan_default_risk_analysis Part B.ipynb # Main analysis notebook
-├── loan_applications.csv                  # Loan applications dataset (~5,000 records)                          
-├── charts/                                # Exported chart images (PNG)
+├── loan_applications.csv                   # Loan applications dataset (~5,000 records)                          
+├── Video                                   # Watch Explanation Video 
+├── charts/                                 # Exported chart images (PNG)
 │   ├── Correlation Matrix Numeric Features.png
 │   ├── Credit Score Band vs Default Status.png
 │   ├── Credit Score Distribution with Gaussian Curve.png
